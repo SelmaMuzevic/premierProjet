@@ -1,0 +1,246 @@
+body {
+    margin: auto;
+    width: 100%;
+}
+
+.pub img {
+    height: 72px;
+}
+
+main {
+    padding-left: 70px;
+}
+
+.connexion,
+.acces {
+    display: flex;
+}
+
+.connexion {
+    margin-left: 1000px;
+}
+
+.contactez-nous,
+.identifiez-vous {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    padding-right: 25px;
+}
+
+.acces strong {
+    color: white;
+}
+
+.acces i {
+    color: white;
+    font-size: 30px;
+}
+
+.contactez-nous a {
+    color: white;
+}
+
+.identifiez-vous a {
+    color: white;
+}
+
+.smallheader {
+    background: gray;
+}
+
+.rechercher input {
+    display: flex;
+    align-items: center;
+    width: 400px;
+    height: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.rechercher {
+    padding-left: 400px
+}
+
+button {
+    background-size: cover;
+    border-style: solid;
+    border-width: 1px;
+    /* Epaisseur de la bordure  */
+    border-color: black;
+    background-color: black;
+    width: 50px;
+}
+
+.icitext {
+    display: flex;
+    padding-bottom: 50px;
+}
+
+.icitext i {
+    color: white;
+}
+
+section {
+    display: flex;
+}
+
+.proposition {
+    display: flex;
+}
+
+.bureautique {
+    display: flex;
+}
+
+.infoBlock {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    margin-left: -20px;
+}
+
+.mag img {
+    width: 250px;
+    height: 100px;
+    padding-left: 10px;
+}
+
+.mag p {
+    display: flex;
+    justify-content: center;
+}
+
+.petitemag {
+    display: flex;
+}
+
+.article {
+    flex: 0 0 auto;
+    width: cal(25%-20px);
+    margin-left: 20px;
+    margin-bottom: 100px;
+    background-color: silver;
+}
+
+.depanage {
+    flex: 0 0 auto;
+    width: cal(25%-20px);
+    margin-left: 20px;
+    margin-bottom: 100px;
+    background-color: silver;
+}
+
+.depanagei p i {
+    display: flex;
+}
+
+.depanagei h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.depanagei i {
+    display: flex;
+    justify-content: center;
+}
+
+.depanagei p {
+    padding-left: 50px;
+}
+
+.telephone h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.telephone i {
+    display: flex;
+    justify-content: center;
+}
+
+.telephone {
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+.mode h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.mode i {
+    display: flex;
+    justify-content: center;
+}
+
+.mode p {
+    margin-left: 80px;
+}
+
+.parag {
+    flex: 0 0 auto;
+    width: 25%;
+    background-color: silver;
+    margin-bottom: 100px;
+    margin-left: 20px;
+}
+
+.parag p {
+    font-size: 15px;
+}
+
+footer header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #777;
+    color: white;
+}
+
+footer header a {
+    font-size: 40px;
+}
+
+.suivre {
+    padding-right: 100px;
+}
+
+.suivre p {
+    font-size: 20px;
+}
+
+hr {
+    color: black;
+    border: 100px;
+}
+
+.fini {
+    display: flex;
+    background-color: #777777;
+    color: white;
+}
+
+.cat {
+    padding-left: 50px;
+}
+
+.cat a {
+    color: white;
+}
+
+.infor {
+    padding-left: 50px;
+}
+
+.boutiq {
+    padding-left: 50px;
+}
+
+.depanage i {
+    font-size: 30px;
+}
+
+.fini {
+    background-color: black;
+}
