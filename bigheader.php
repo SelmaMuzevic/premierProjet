@@ -1,4 +1,5 @@
 <div class="logo">
+    
             <img src="http://cematys.fr/img/prestashop-logo-1481920776.jpg" />
         </div>
 
