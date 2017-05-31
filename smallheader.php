@@ -1,5 +1,3 @@
-<header class="smallheader">
-
 <div class="pub">
             <img src="http://cematys.fr/modules/blockbanner/img/27c9d8c3972f0dc56fa80042ec1e2dd7.png" />
         </div>
@@ -19,4 +17,3 @@
         </div>
         </div>
         </div>
-        </header>
